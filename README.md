@@ -1,1 +1,4 @@
-# sample_proj3 
+# sample_proj3
+
+My name is 권태형
+
